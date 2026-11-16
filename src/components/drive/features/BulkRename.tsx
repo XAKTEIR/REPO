@@ -212,7 +212,3 @@ export default function BulkRename({ selectedFiles, open, onOpenChange, onRename
     </AnimatePresence>
   );
 }
-
-
-import { CheckCircle2 } from "lucide-react";
-
